@@ -1,0 +1,4 @@
+for (int i : array)
+        { if (i % 3 == 0)
+            { System.out.println(i);
+    }}
